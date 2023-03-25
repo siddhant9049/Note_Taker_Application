@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.baffaea5.css",
+    "main.js": "/static/js/main.6950d9f5.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/—Pngtree—hd brick wall background_206286.jpg": "/static/media/—Pngtree—hd brick wall background_206286.bdd446dfccb87c76c144.jpg",
+    "index.html": "/index.html",
+    "main.baffaea5.css.map": "/static/css/main.baffaea5.css.map",
+    "main.6950d9f5.js.map": "/static/js/main.6950d9f5.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baffaea5.css",
+    "static/js/main.6950d9f5.js"
+  ]
+}

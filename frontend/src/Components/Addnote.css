@@ -1,0 +1,100 @@
+.main-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* margin-top: 10vw; */
+    height: 100vh;
+
+    background-image: url("../../public/—Pngtree—hd\ brick\ wall\ background_206286.jpg");
+    background-size: 100%;
+}
+
+.text-area{
+   
+    height: 30vh;
+    width: 40vw;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.title-input{
+    width: 40vw;
+    height: 4vh;
+    margin: 10px;
+}
+
+.Form-button{
+    width: 40vw;
+    background-color: rgb(132, 192, 245);
+    border: 0px solid ;
+    border-radius: 20px;
+
+    height: 30px;
+}
+
+
+.nav-header{
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+    background-color: rgb(58, 57, 63);
+    color: azure;
+    height: 60px;
+    /* text-align: end; */
+    
+
+}
+
+#ok{
+    background-color: rgb(80, 78, 83);
+    height: 30px;
+    margin-top: 14px;
+}
+
+.input-search{
+ margin-top: -90vh;
+    width: 90vw;
+    height: 4vh;
+    border-radius: 20px;
+    /* font-weight: 300; */
+    font-size: 20px;
+    
+}
+
+.Export1{
+    width: 90vw ;
+    height: 7vh ;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+
+.Export2{
+    margin: 10px;
+    width: 90vw ;
+    height: 26vh ;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+
+.button-container{
+    display: flex;
+    flex-direction: row;
+    margin-left: -70vw;
+}
+
+.button-delete{
+    background-color: rgb(56, 155, 236);
+    border: 0px solid;
+    margin-right: 10px;
+    height: 30px;
+    width: 90px;
+    border-radius: 10px;
+}
+
+.button-update{
+    background-color: rgb(56, 155, 236);
+    border: 0px solid;
+    height: 30px;
+    width: 90px;
+    border-radius: 10px;
+}
